@@ -1,7 +1,7 @@
 using UnityEngine;
 
-//namespace Borderless.Lobbies
-//{
+namespace Borderless.Lobbies
+{
     public class LobbyClouds : MonoBehaviour
     {
         [SerializeField] float CloudSpeed = 1;
@@ -11,4 +11,4 @@ using UnityEngine;
             transform.Rotate(0, CloudSpeed * Time.deltaTime, 0);
         }
     }
-//}
+}

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-//namespace Borderless.Lobbies
-//{
+namespace Borderless.Lobbies
+{
     public class PingPong : MonoBehaviour
     {
         public float lerpspeed = 10.0f;
@@ -81,4 +81,4 @@
 
         }
     }
-//}
+}

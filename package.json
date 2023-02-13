@@ -1,7 +1,7 @@
 {
   "name": "com.borderless.lobbies",
   "displayName": "Borderless Lobbies",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "unity": "2020.3",
   "description": "Provides integration support for Borderless lobbies",
   "author": { "name": "Borderless" },

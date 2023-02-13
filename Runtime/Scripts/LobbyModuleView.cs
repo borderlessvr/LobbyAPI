@@ -2,8 +2,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Borderless.Lobbies
-{
+//namespace Borderless.Lobbies
+//{
     public enum ModulePlacement
     {
         L3,
@@ -43,5 +43,5 @@ namespace Borderless.Lobbies
             gameObject.SetActive(false);
         }
     }
-}
+//}
 

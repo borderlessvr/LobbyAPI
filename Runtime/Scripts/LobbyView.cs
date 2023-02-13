@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Borderless.Lobbies
-{
+//namespace Borderless.Lobbies
+//{
     public class LobbyView : MonoBehaviour
     {
         [SerializeField] private List<LobbyModuleView> moduleViews;
@@ -32,4 +32,4 @@ namespace Borderless.Lobbies
 
         }
     }
-}
+//}
